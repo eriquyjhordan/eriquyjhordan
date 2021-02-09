@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eriquy Jhordan</h1>
-<h3 align="center">I'm a student of computer engineer, actually I have finish the course of frontend developer with Trybe, now I'm able to create awesome single pages applications with React.Js awesome</h3>
+<h3 align="center">I'm a student of computer engineer, actually I have finish the course of frontend developer with Trybe, now I'm able to create awesome single pages applications with React.Js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriquyjhordan&label=Profile%20views&color=0e75b6&style=flat" alt="eriquyjhordan" /> </p>
 
