@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eriquy Jhordan</h1>
-<h3 align="center">I'm a student of software engineer at UFES (Federal University of Espirito Santo), and I have finish the course of frontend developer with <a href="https://www.linkedin.com/school/betrybe/" target="_blank">Trybe</a>, now I'm able to create awesome single pages applications with React.Js</h3>
+<h3 align="center">Full-stack Developer with over 4 years of diverse experience, demonstrating a track record of delivering efficient and user-centered web, mobile and desktop applications. Known for leading projects in data governance, CI/CD automation with Azure, and developing custom Python libraries for data processing. At BuzzMates, I worked with React Native and AWS Lambda to enhance platform capabilities, and at Apex Partners, I contributed to scalable solutions that improved operational efficiency. My work at Ford Motor Company focused on frontend development with React.js and AngularJS, optimizing tools for production data analysis. Expert in agile methodologies and cloud technologies, with a passion for building innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriquyjhordan&label=Profile%20views&color=0e75b6&style=flat" alt="eriquyjhordan" /> </p>
-
-- 🔭 I’m currently working on [Recipes App](https://github.com/tryber/sd-07-project-recipes-app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
